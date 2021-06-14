@@ -25,4 +25,4 @@ switch ($error)
 ?>
 
 <br>
-<a href="http://v-ie.uek.krakow.pl/~s210277/Wataha.php">Wróć</a>
+<a href="index.php">Wróć</a>
